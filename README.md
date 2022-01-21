@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chesar48
-- 👀 I’m interested in frontEnd developments
+- 👀 I’m interested in backend developments
 - 🌱 I’m currently learning Mobile app Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me massage me on my instagram fluviophile48
