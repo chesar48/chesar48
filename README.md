@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chesar48
 - 👀 I’m interested in backend developments
-- 🌱 I’m currently learning Mobile app Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ game development
+- 💞️ I’m looking to collaborate on golang backend
 - 📫 How to reach me massage me on my instagram fluviophile48
 
 <!---
